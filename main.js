@@ -1,3 +1,3 @@
-alert('!alert pengikut ambativasi only!')
+alert('!_TIDAK BOLEH PROTES BILA WEBSITE JELEK KARENA DALAM TAHAP PENGEMBANGAN!')
  
 
