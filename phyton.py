@@ -1,1 +1,0 @@
-Print('hipotesis : semakin tinggi presentase jomok pada lingkungan tersebut maka semakin rendah presentase zina pada tempat itu') 
